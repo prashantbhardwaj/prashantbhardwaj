@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashantbhardwaj
-- 👀 I’m interested in building softwares
-- 🌱 I’m currently learning 'building Alexa skills'
-- 💞️ I’m looking to collaborate on 'Spring projects'
+- 👀 I’m an AI Engineer
+- 🌱 I’m currently building StudyStride
+- 💞️ I’m training people on AI Engineering skills
 - 📫 How to reach me https://www.linkedin.com/in/prashantbhardwaj13/
 
 <!---
